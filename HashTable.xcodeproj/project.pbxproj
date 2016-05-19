@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		8DBC6D171CECD246009506CA /* hashTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hashTable.swift; sourceTree = "<group>"; };
+		8DBC6D181CECD28B009506CA /* hashNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hashNode.swift; sourceTree = "<group>"; };
+		8DBC6D1C1CECD34D009506CA /* HashTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashTest.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		8DBC6D101CECD22E009506CA = {
 			isa = PBXGroup;
 			children = (
+				8DBC6D1C1CECD34D009506CA /* HashTest.swift */,
+				8DBC6D181CECD28B009506CA /* hashNode.swift */,
+				8DBC6D171CECD246009506CA /* hashTable.swift */,
 			);
 			sourceTree = "<group>";
 		};
